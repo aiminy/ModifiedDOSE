@@ -76,3 +76,4 @@ For details, please visit our project website, <https://guangchuangyu.github.io/
        0 +   * *** *                                                                                   +
          +-----------+---------------+---------------+----------------+---------------+---------------++
                    2012            2013            2014             2015            2016            2017
+# ModifiedDOSE
